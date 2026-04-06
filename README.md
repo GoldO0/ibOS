@@ -1,4 +1,3 @@
-![Logo](logo.png)
 ![Screenshot](screenshot.png)
 
 Man,this project took me 2 days to make. Maybe this might look short timeline but I coded for a long time with maybe 1-2 hours break. I slept 3 hours for this project to be done.
